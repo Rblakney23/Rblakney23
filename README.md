@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security/I.T Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Rblakney23/LABURL)
+  - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
