@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security/I.T Projects:</h2>
   - Microsoft Azure
-    - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
