@@ -4,6 +4,9 @@
 
 - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab)
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Rblakney23/osTicket-Prerequisites-and-Installation) 
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
