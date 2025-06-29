@@ -5,7 +5,11 @@
 - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Rblakney23/osTicket-Prerequisites-and-Installation) 
+  - [osTicket: Prerequisites and Installation](https://github.com/Rblakney23/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Rblakney23/osTicket-Post-Install-Config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Rblakney23/osTicket-Ticket-Lifecycle) 
+
+    
 
 <h2>📺 Popular YouTube Videos</h2>
 
