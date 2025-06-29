@@ -1,6 +1,7 @@
 <h1>Hi, I'm Rance! <br/><a href="https://github.com/Rblakney23">IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security/I.T Projects:</h2>
+
 - <b>Microsoft Azure</b>
  - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab) 
 
