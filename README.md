@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security/I.T Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Active Directory Home Lab](https://github.com/Rblakney23/ActiveDirectoryLab) 
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rblakney23/ActiveDirectoryLab) 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Rblakney23/osTicket-Prerequisites-and-Installation)
