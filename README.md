@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cyber Security/I.T Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rblakney23/ActiveDirectoryLab) 
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Rblakney23/ActiveDirectoryLab)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/Rblakney23/Network-Security-Groups---Inspecting-traffic-between-VMs)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Rblakney23/osTicket-Prerequisites-and-Installation)
